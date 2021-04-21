@@ -1,0 +1,19 @@
+h1{
+    color:cyan;
+    text-align: center;
+
+    }
+
+    body{
+    background-color: rosybrown;
+    border: 20px solid green;
+    margin: 40px;
+    padding:30px ;
+    font-size: 25px;
+}
+.myBox{
+    background-color: salmon;
+    margin: 20px; 
+    padding: 40px;
+    border: 20px solid blue ;
+}
